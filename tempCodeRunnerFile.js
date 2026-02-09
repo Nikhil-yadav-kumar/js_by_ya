@@ -1,1 +1,1 @@
-object
+city:"mohali"
