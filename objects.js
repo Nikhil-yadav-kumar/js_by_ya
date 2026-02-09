@@ -41,3 +41,5 @@ let student={
 };
 student.school="DAV public school";
 console.log(student);
+delete student.age;
+console.log(student)
