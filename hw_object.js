@@ -51,19 +51,21 @@
 //     console.log("not found")
 // }
 
-//Q7
-let val={
-    a:10,
-    b:{
-        x:5, 
-        y:15
-    }
-}
-let total=0;
-for(let value in val){
-    if(val[value]==="number"){
-        total+=val[value];
+// //Q7
+// let val={
+//     a:10,
+//     b:{
+//         x:5, 
+//         y:15
+//     }
+// }
+// let total=0;
+// for(let value in val){
+//     if(val[value]==="number"){
+//         total+=val[value];
 
-    }
-}
-console.log(total)
+//     }
+// }
+// console.log(total)
+
+
