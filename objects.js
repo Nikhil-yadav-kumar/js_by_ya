@@ -72,3 +72,12 @@
 // car.color="black";
 // console.log(car);
 
+//function in objects
+
+const bike={
+    name:'bullet',
+    print:function(){
+        console.log("the bike is "+this.name)
+    }
+};
+bike.print();
